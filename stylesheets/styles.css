@@ -656,7 +656,7 @@ footer .social-links img {
 /* - // _BEGIN > HERO SECTION STYLES < CSS // - */
 
 .fank-hero-section {
-    background: url("../images/backgrounds/hero-background.webp");
+    background: url("https://raw.githubusercontent.com/dealdz/maivo/main/uploads/hero-background.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -797,7 +797,7 @@ footer .social-links img {
 
 .play-fantasy-section {
     background-color: #faf5ff;
-    background-image: url(../images/backgrounds/service-bg.png);
+    background-image: url(https://raw.githubusercontent.com/dealdz/maivo/main/uploads/service-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -909,7 +909,7 @@ footer .social-links img {
 /* - // _BEGIN > HOW TO INSTALL SECTION STYLES < CSS // - */
 
 .fank-installation-section {
-    background: url("../images/backgrounds/install-background.jpg");
+    background: url("https://raw.githubusercontent.com/dealdz/maivo/main/uploads/install-background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1033,7 +1033,7 @@ footer .social-links img {
 /* - // _BEGIN > GREAT FEATURE SECTION STYLES < CSS // - */
 
 .fank-feature-section {
-    background: url("../images/backgrounds/feature-background.jpg");
+    background: url("https://raw.githubusercontent.com/dealdz/maivo/main/uploads/feature-background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1415,7 +1415,7 @@ footer .social-links img {
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url(../images/cover-images/shedow.png);
+    background-image: url(https://raw.githubusercontent.com/dealdz/maivo/main/uploads/shedow.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1454,7 +1454,7 @@ footer .social-links img {
 }
 
 .quote-container-winner-wrap {
-    background-image: url(../images/cover-images/green_icon.svg);
+    background-image: url(https://raw.githubusercontent.com/dealdz/maivo/main/uploads/green_icon.svg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -2342,7 +2342,7 @@ header ul li .dropdown-content a {
     height: 405px;
     position: relative;
     border-radius: 50%;
-    background-image: url(./../images/gallery/imgpsh_fullsize_anim.png);
+    background-image: url(https://raw.githubusercontent.com/dealdz/maivo/main/uploads/imgpsh_fullsize_anim.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
