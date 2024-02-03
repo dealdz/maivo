@@ -1,0 +1,941 @@
+@media (min-width: 1140px) {
+    .container {
+        max-width: 1040px;
+    }
+    .play-fantasy-swiper {}
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+    .play-fantasy-swiper {
+        padding-left: 82px;
+    }
+}
+
+@media (min-width: 1350px) {
+    .container {
+        max-width: 1250px;
+    }
+    .play-fantasy-swiper {
+        padding-left: 70px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .container {
+        max-width: 1350px;
+    }
+    .play-fantasy-swiper {
+        padding-left: 57px;
+    }
+}
+
+@media (min-width: 1600px) {
+    .container {
+        max-width: 1580px;
+    }
+    .play-fantasy-swiper {
+        padding-left: 22px;
+    }
+}
+
+@media (min-width: 1680px) {
+    .play-fantasy-swiper {
+        padding-left: 62px;
+    }
+}
+
+@media (min-width: 1799px) {
+    .play-fantasy-swiper {
+        padding-left: 174px;
+    }
+}
+
+@media only screen and (max-width: 1799px) {
+    header {
+        padding: 8px 0;
+    }
+    .play-fantasy-swiper-description-box {
+        padding: 20px 20px 15px;
+    }
+}
+
+@media only screen and (max-width: 1599px) {
+    .header-menu-ul a {
+        font-size: 18px;
+    }
+    .fank-installation-steps-card,
+    .fank-installation-steps-info-card {
+        padding: 20px;
+    }
+    .fank-feature-details {
+        font-size: 16px;
+    }
+    .fank-brand-grid {
+        grid-gap: 30px;
+    }
+    .fank-brand-placeholder {
+        max-width: 150px;
+    }
+    .play-fantasy-img-box {
+        height: 256px;
+    }
+    .fank-section-sub-title {
+        font-size: 20px;
+    }
+    .play-fantasy-swiper-description-box p {
+        -webkit-line-clamp: 5;
+        font-size: 14px;
+    }
+    .play-fantasy-swiper-description-box {
+        padding: 20px 20px 15px;
+    }
+    .play-fantasy-play-ico-box {
+        height: 80px;
+        width: 80px;
+    }
+    .play-fantasy-play-ico-box svg {
+        width: 40px;
+        height: 40px;
+    }
+    .play-fantasy-title h3 {
+        font-size: 22px;
+    }
+    .play-fantasy-swiper-box {
+        border-radius: 30px;
+    }
+    .play-fantasy-img-box {
+        border-radius: 30px 30px 0px 0px;
+    }
+    .footer-row {
+        grid-gap: 30px;
+    }
+    .footer-col .footer-link li a {
+        font-size: 16px;
+    }
+    .footer-col .footer-link li:not(:last-child) {
+        padding-bottom: 10px;
+    }
+    .fank-section-title {
+        font-size: 50px;
+        line-height: inherit;
+    }
+    .quote-container h5 {
+        font-size: 19px;
+        margin-top: 20px;
+    }
+    .quote-container-winner-wrap h4 {
+        font-size: 22px;
+    }
+    .quote-container p {
+        font-size: 16px;
+    }
+    .quote-container-winner-wrap {
+        padding: 24px 52px 47px;
+    }
+    .why-we-love-fk-review .swiper-arrow {
+        width: 40px;
+        height: 40px;
+    }
+    .why-we-love-fk-review .swiper-arrow svg {
+        width: 25px;
+        height: 25px;
+    }
+    .fank-amazing-header {
+        margin-bottom: 80px;
+    }
+    .fank-contact-link-wrapper {
+        padding: 30px;
+    }
+    .fank-contact-link-icon {
+        margin-right: 8px;
+    }
+    .fank-hero-cover img {
+        max-width: 700px;
+    }
+    .fank-hero-heading {
+        font-size: 70px;
+    }
+    .fank-hero-description {
+        margin-bottom: 50px;
+    }
+    .download-stats-text,
+    .fank-download-link-group p {
+        font-size: 20px;
+    }
+    .fank-feature-title {
+        font-size: 20px;
+    }
+    .fank-feature-grid-wrapper {
+        grid-gap: 18px;
+    }
+    .fank-installation-section .fank-section-sub-title {
+        max-width: 1100px;
+    }
+    .fank-amazing-feature-section {
+        padding: 80px 0 100px;
+    }
+    .game-feature-col h4 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 1439px) {
+    .fank-section-title {
+        font-size: 60px;
+    }
+    .panel p {
+        font-size: 16px;
+    }
+    .quote-container-winner-wrap h4 {
+        font-size: 18px;
+    }
+    .quote-container p {
+        font-size: 14px;
+        padding: 0;
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 1365px) {
+    .fank-feature-grid-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 100px 50px;
+    }
+    .fank-brand-section:before {
+        width: 60%;
+    }
+    .fank-brand-section:after {
+        width: calc(60% - 20px);
+    }
+    .fank-brand-grid {
+        margin-left: 0;
+        grid-gap: 30px;
+        position: absolute;
+        top: 100%;
+        background: #ffffff;
+        left: 0;
+        right: 0;
+        width: 100%;
+    }
+    .fank-brand-section {
+        margin-bottom: 100px;
+    }
+    .fank-brand-placeholder {
+        margin: 0 auto;
+        padding: 10px 0;
+    }
+    .fank-contact-row {
+        flex-direction: column;
+        gap: 40px;
+    }
+    .fank-contact-details,
+    .fank-contact-map {
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+    }
+    .map_bind {
+        height: 500px;
+    }
+    .fank-installation-steps-grid {
+        grid-gap: 15px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    header ul li:not(:last-child) a {
+        margin-right: 40px;
+    }
+    .header-logo {
+        max-width: 200px;
+    }
+    .header-menu-ul a {
+        font-size: 16px;
+    }
+    .fank-hero-wrapper {
+        padding: 150px 0;
+    }
+    .fank-hero-heading {
+        font-size: 60px;
+    }
+    .fank-hero-description {
+        margin-bottom: 30px;
+    }
+    .fank-installation-steps-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .footer-col h6 {
+        font-size: 16px;
+    }
+    .play-fantasy-section {
+        padding: 30px 0 50px;
+    }
+    .play-fantasy-swiper {
+        margin-top: 40px;
+    }
+    .fank-contact-us-section {
+        padding: 50px 0;
+    }
+    .fank-hero-cover img {
+        max-width: 600px;
+    }
+    .fank-download-button {
+        font-size: 22px;
+        max-width: 240px;
+    }
+    .fank-section-sub-title {
+        font-size: 16px;
+    }
+    .game-feature-col h4 {
+        font-size: 18px;
+    }
+    .game-feature-col p {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    .fank-download-stats-section {
+        --download-items-padding: 30px;
+    }
+    .spinwin-footerbar {
+        width: 33%;
+    }
+}
+
+@media (min-width: 992px) {
+    .future-timeline {
+        text-align: right;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    header ul li:not(:last-child) a {
+        margin-right: 20px;
+    }
+    .dropdown-content {
+        min-width: 170px;
+        padding: 10px;
+    }
+    .fank-installation-steps-desc {
+        max-width: 100%;
+    }
+    .fank-hero-wrapper {
+        display: block;
+        padding: 50px 0;
+        text-align: center;
+    }
+    .fank-hero-content {
+        align-items: center;
+    }
+    .fank-installation-section {
+        padding: 50px 0;
+    }
+    .fank-brand-section:before {
+        width: 80%;
+    }
+    .fank-brand-section:after {
+        width: calc(80% - 20px);
+    }
+    .fank-brand-grid {
+        padding: 0 12px;
+    }
+    .footer-row {
+        flex-wrap: wrap;
+    }
+    .footer-left-col,
+    .footer-right-col {
+        width: 100%;
+    }
+    footer {
+        padding: 30px 0;
+    }
+    .footer-logo {
+        max-width: 250px;
+    }
+    .fank-accordion {
+        font-size: 16px;
+    }
+    .download-stats-text,
+    .fank-download-link-group p,
+    .panel p {
+        font-size: 14px;
+    }
+    .fank-feature-logo:before {
+        width: calc(100% + 30px);
+        height: calc(100% + 30px);
+    }
+    .fank-amazing-feature-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .game-feature-col {
+        width: calc(100% / 1);
+    }
+    .game-feature-img-wrap img {
+        left: 0;
+        max-width: 400px;
+    }
+    .game-feature-center-col {
+        order: 1;
+    }
+    .game-feature-left-col {
+        order: 2;
+    }
+    .game-feature-right-col {
+        order: 3;
+    }
+    .future-box ul {
+        padding: 0;
+    }
+    header ul {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) {
+    .future-timeline {
+        border-right: 1px solid var(--color-bravo);
+        padding-right: 20px;
+    }
+    .future-timeline-right {
+        border-left: 1px solid var(--color-bravo);
+        padding-left: 20px;
+    }
+    .future-timeline-right ul {
+        padding: 0;
+    }
+    .future-box ul li {
+        position: relative;
+    }
+    .future-box ul li::after {
+        content: '';
+        width: 5px;
+        height: 5px;
+        background-color: var(--color-black);
+        border-radius: 100%;
+        position: absolute;
+        top: 50%;
+    }
+    .future-box ul li.timeline::after {
+        right: 0;
+        transform: translate(23px, -50%);
+    }
+    .future-box ul li.timeline-right::after {
+        left: 0;
+        transform: translate(-23px, -50%);
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .game-feature-col .future-box {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .mobile-menu-ico,
+    .mobile-menu-wrap,
+    .mobile-app-logo {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .fank-hero-heading {
+        font-size: 50px;
+    }
+    .fank-section-title {
+        font-size: 34px;
+    }
+    .download-stats-text,
+    .fank-download-link-group p {
+        font-size: 20px;
+    }
+    .download-stats-icon {
+        width: 50px;
+        height: 50px;
+        margin-right: 10px;
+    }
+    .fank-download-stats-section {
+        --download-items-padding: 30px;
+    }
+    .fank-download-stats:nth-child(1) {
+        padding: 0 var(--download-items-padding) 0 0;
+    }
+    .fank-download-stats:nth-child(3) {
+        padding: 0 0 0 var(--download-items-padding);
+    }
+    .fank-installation-steps-card,
+    .fank-installation-steps-info-card {
+        padding: 16px;
+    }
+    .fank-feature-title {
+        font-size: 18px;
+    }
+    .fank-feature-details {
+        font-size: 14px;
+    }
+    .fank-brand-grid {
+        grid-gap: 0 20px;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 20px;
+    }
+    .fank-brand-section {
+        margin-bottom: 220px;
+    }
+    .fank-brand-section:before {
+        width: 90%;
+    }
+    .fank-brand-section:after {
+        width: calc(90% - 20px);
+    }
+    .fank-brand-flex-header .fank-section-title {
+        margin: 0;
+    }
+    footer .social-links {
+        grid-gap: 10px;
+    }
+    .sub-footer-section h5 {
+        margin-bottom: 20px;
+    }
+    .sub-footer-section {
+        padding: 30px 0;
+    }
+    .quote-container {
+        padding: 20px 18px;
+    }
+    .fank-about-row {
+        flex-direction: column;
+    }
+    .fank-about-content,
+    .fank-about-app-image {
+        max-width: 100%;
+    }
+    .fank-about-cover {
+        width: 70%;
+        margin: 20px auto 0;
+    }
+    .fank-amazing-header {
+        margin-bottom: 50px;
+    }
+    .fank-amazing-feature-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .fank-contact-card {
+        border-radius: 16px;
+        padding: 30px;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .fank-contact-card::before {
+        width: 0;
+    }
+    .fank-contact-form,
+    .fank-contact-link-wrapper {
+        max-width: 100%;
+    }
+    .fank-contact-link-wrapper {
+        position: relative;
+        background-color: #2d2d2d;
+        right: unset;
+        top: unset;
+        width: 100%;
+        border-radius: 25px;
+        transform: unset;
+    }
+    .fank-download-stats-wrapper {
+        flex-wrap: wrap;
+    }
+    .fank-download-link-group {
+        padding-left: 0;
+        margin-top: 25px;
+    }
+    .fank-download-stats {
+        padding-right: 0;
+    }
+    .fank-section-sub-title,
+    .fank-installation-steps-desc,
+    .fank-contact-form-header p,
+    .rng-certificate-section p,
+    .all-policy-details-wrap p,
+    .all-policy-details-wrap li {
+        font-size: 14px;
+    }
+    .fank-installation-steps-info-card p {
+        font-size: 12px;
+    }
+    .fank-feature-grid-wrapper {
+        grid-gap: 60px 50px;
+    }
+    .game-feature-img-wrap img {
+        max-width: 100%;
+    }
+    .section-py {
+        padding: 40px 0;
+    }
+    .all-policy-details-wrap {
+        margin-top: 20px;
+    }
+    .all-policy-details-wrap h3 {
+        font-size: 22px;
+    }
+    .fank-feature-logo {
+        width: 120px;
+        height: 120px;
+        padding: 40px;
+    }
+    .fank-android-ios-box {
+        display: block;
+    }
+    .fank-download-col {
+        width: calc(100% / 1);
+    }
+    .android_dowanload,
+    .ios_dowanlod {
+        margin: 0 0 5% 0;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .footer-right-col {
+        flex-wrap: wrap;
+    }
+    .footer-right-col .footer-col {
+        width: calc(100% / 2);
+    }
+    .social-links-col {
+        margin-top: 20px;
+    }
+    .sub-footer-section {
+        padding: 20px 0;
+    }
+    .sub-footer-section h5 {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    .sub-footer-section p {
+        font-size: 12px;
+    }
+    .footer-col h6 {
+        margin-bottom: 10px;
+    }
+    .footer-row {
+        grid-gap: 0px;
+    }
+    .footer-col p,
+    .footer-col .footer-link li a {
+        font-size: 14px;
+    }
+    .fank-download-stats-section {
+        --download-items-padding: 20px;
+    }
+    .download-stats-icon {
+        width: 45px;
+        height: 45px;
+        margin-right: 15px;
+    }
+    .fank-installation-steps-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .fank-installation-steps-card,
+    .fank-installation-steps-info-card {
+        padding: 20px;
+    }
+    .fank-feature-grid-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 60px 40px;
+    }
+    .fank-brand-section:before {
+        width: 100%;
+    }
+    .fank-brand-section:after {
+        width: calc(100% - 20px);
+    }
+    .play-fantasy-swiper-box {
+        border-radius: 20px;
+    }
+    .play-fantasy-img-box {
+        border-radius: 20px 20px 0px 0px;
+    }
+    .play-fantasy-img-box {
+        height: 210px;
+    }
+    .play-fantasy-play-ico-box {
+        height: 50px;
+        width: 50px;
+    }
+    .play-fantasy-play-ico-box svg {
+        width: 30px;
+        height: 30px;
+    }
+    .play-fantasy-swiper-description-box {
+        padding: 15px;
+        min-height: 275px;
+    }
+    .play-fantasy-title h3 {
+        font-size: 18px;
+    }
+    .play-fantasy-swiper-description-box p {
+        -webkit-line-clamp: 7;
+        font-size: 14px;
+    }
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: 0;
+    }
+    .why-we-love-fk-review .swiper-button-next,
+    .why-we-love-fk-review .swiper-rtl .swiper-button-prev {
+        right: 0;
+    }
+    .quote-container-winner-wrap {
+        padding: 25px 52px 47px;
+    }
+    .fank-about-cover {
+        width: 90%;
+    }
+    .fank-contact-link-wrapper {
+        border-radius: 20px;
+    }
+    .fank-follow-social-link {
+        width: 30px;
+        height: 30px;
+    }
+    .fank-download-button {
+        font-size: 18px;
+        max-width: 200px;
+        border-radius: 12px;
+    }
+    .fank-hero-cover {
+        margin-top: 25px;
+    }
+    .fank-brand-placeholder {
+        max-width: 90px;
+    }
+    .fank-brand-section {
+        margin-bottom: 160px;
+    }
+    .fank-feature-header {
+        margin-bottom: 50px;
+    }
+    .why-we-love-fantasy-khildai-section {
+        padding: 55px 0 40px;
+    }
+    .fank-download-stats-wrapper {
+        padding: 20px 0;
+    }
+    .fank-download-stats-col {
+        width: calc(100% / 2);
+    }
+    .fank-about-content p {
+        font-size: 14px;
+    }
+    .fank-about-content h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .fank-amazing-feature-section {
+        padding: 50px 0 70px;
+    }
+    .fank-contact-map h4 {
+        font-size: 22px;
+    }
+    .game-feature-col h4 {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .fank-feature-grid-wrapper {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 70px 0;
+    }
+    .download-stats-text,
+    .fank-download-link-group p {
+        font-size: 16px;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .fank-download-stats {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .fank-download-stats:nth-child(1) {
+        padding: 0 var(--download-items-padding);
+    }
+    .fank-download-stats:nth-child(2) {
+        padding: 0 0 0 var(--download-items-padding);
+    }
+    .fank-hero-heading,
+    .fank-section-title,
+    .fank-contact-form-header h1 {
+        font-size: 50px;
+    }
+    .fank-hero-description {
+        font-size: 14px;
+    }
+    .fank-brand-section:before,
+    .fank-brand-section:after {
+        -webkit-clip-path: polygon(0% 0%, 80% 0%, 100% 50%, 80% 100%, 0% 100%);
+        clip-path: polygon(0% 0%, 80% 0%, 100% 50%, 80% 100%, 0% 100%);
+    }
+    .fank-brand-flex-header .fank-section-title {
+        line-height: 1;
+    }
+    .fank-faq-section {
+        padding: 30px 0;
+    }
+    .fank-faq-section .fank-section-title {
+        margin-bottom: 30px;
+    }
+    .fank-accordion.active+.panel {
+        padding: 14px 14px;
+    }
+    .fank-contact-us-section {
+        padding: 20px 0;
+    }
+    .fank-contact-card {
+        padding: 16px;
+    }
+    .fank-contact-link-wrapper {
+        border-radius: 16px;
+        padding: 30px 20px;
+    }
+    .fank-contact-link-wrapper h2 {
+        font-size: 22px;
+    }
+    .fank-contact-link-icon {
+        width: 22px;
+        height: 22px;
+    }
+    .fank-contact-link {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 400px) {
+    .quote-container-winner-wrap {
+        padding: 27px 52px 47px;
+    }
+}
+
+@media only screen and (max-width: 351px) {
+    .quote-container-winner-wrap h4 {
+        font-size: 16px;
+    }
+    .quote-container-winner-wrap {
+        padding: 30px 52px 47px;
+    }
+    .mobile-app-logo img {
+        max-width: 120px;
+        margin: 0;
+    }
+    .whatsapp-btn-wrap {
+        width: 35px;
+        height: 35px;
+    }
+}
+
+/*----update 24-07-2023--*/
+
+@media (max-width: 1599px) {
+    .box-0::after {
+        width: 365px;
+        height: 365px;
+    }
+    .box-0::before {
+        width: 320px;
+        height: 320px;
+    }
+    .speen-wheel-wrap {
+        width: 295px;
+        height: 295px;
+    }
+    .box-0 .spin-wheel-point-crown-img {
+        max-width: 170px;
+    }
+    .box-0 .spin-wheel-stand-img {
+        max-width: 150px;
+        bottom: -70px;
+    }
+    .box-0 .box .span_08_img {
+        top: 21%;
+    }
+    .box-0 .box .span_01_img {
+        top: 18%;
+    }
+    .box-0 .box .span_05_img {
+        top: 8%;
+    }
+    .speen-wheel-wrap .box2 .span1 b {
+        transform: rotate(290deg);
+    }
+    .fank-hero-description {
+        text-align: left;
+    }
+}
+
+@media (max-width: 991px) {
+    .fank-hero-wrapper {
+        text-align: unset !important;
+    }
+    .fank-hero-section {
+        min-height: 100vh;
+        padding-bottom: 140px;
+    }
+    .box-0 {
+        position: relative;
+        top: 80px;
+        right: 0;
+    }
+}
+
+@media (max-width: 575px) {
+    .box-0::after {
+        width: 320px;
+        height: 320px;
+    }
+    .box-0::before {
+        width: 280px;
+        height: 280px;
+    }
+    .speen-wheel-wrap {
+        width: 250px;
+        height: 250px;
+    }
+    .box-0 .box span img {
+        display: none !important;
+    }
+    .speen-wheel-wrap .font-medium {
+        font-size: 16px;
+    }
+    .speen-wheel-wrap .main-title {
+        font-size: 14px;
+    }
+    .speen-wheel-wrap .box2 .span2 b {
+        top: -5%;
+        right: 71%;
+    }
+    .spinwin-body-section {
+        text-align: center;
+    }
+    p.ruppesword {
+        font-size: 40px;
+    }
+    .withdrawl {
+        font-size: 18px;
+    }
+    .spinwin-footerbar {
+        width: 75%;
+    }
+    a.downloadnow {
+        padding: 15px 16px;
+    }
+    .header-logo {
+        max-width: 291px;
+    }
+}
